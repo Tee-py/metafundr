@@ -1,3 +1,7 @@
 [submodule "metafundr-program"]
 	path = metafundr-program
 	url = https://github.com/Tee-py/metafundr-program.git
+
+[submodule "metafundr-server"]
+	path = metafundr-server
+	url = https://github.com/Tee-py/metafundr-server.git
